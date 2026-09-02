@@ -1,5 +1,46 @@
-! Title: Comprehensive Network Blocklist (Maximum Strictness)
-! Description: Blocks Roblox, stranger chat, anonymous apps, dating, Kik, Discord, Discord alternatives, VR social, imageboards, and adult creators.
+! Title: Comprehensive Network Blocklist (Maximum Strictness + Bypass Prevention)
+! Description: Blocks Roblox, stranger chat, anonymous apps, dating, Kik, Discord, Discord alternatives, VR social, imageboards, adult creators, VPNs, proxies, and encrypted DNS.
+
+! *** Encrypted DNS & Bypass Protocols ***
+||dns.google^
+||dns.cloudflare.com^
+||one.one.one.one^
+||nextdns.io^
+||dns.quad9.net^
+||dns.adguard.com^
+||dns.adguard-dns.com^
+||controld.com^
+||dns.controld.com^
+||doh.opendns.com^
+||mask.icloud.com^
+||mask-h2.icloud.com^
+
+! *** VPN Providers ***
+||nordvpn.com^
+||expressvpn.com^
+||surfshark.com^
+||protonvpn.com^
+||mullvad.net^
+||privateinternetaccess.com^
+||windscribe.com^
+||tunnelbear.com^
+||ivpn.net^
+||hide.me^
+||vyprvpn.com^
+||ipvanish.com^
+||cyberghostvpn.com^
+||hotspotshield.com^
+||zenmate.com^
+
+! *** Proxies & Tor ***
+||torproject.org^
+||croxyproxy.com^
+||proxysite.com^
+||kproxy.com^
+||anonymouse.org^
+||filterbypass.me^
+||proxyscrape.com^
+||proxy-list.org^
 
 ! *** Discord Alternatives & Decentralized Chat ***
 ||fluxer.app^
