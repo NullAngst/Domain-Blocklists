@@ -61,11 +61,23 @@
 ||imvu.com^
 ||secondlife.com^
 
-! *** Encrypted & Unmoderated Messengers ***
+! *** Encrypted, Peer-to-Peer & Unmoderated Messengers ***
+||signal.org^
+||whispersystems.org^
+||cdn.signal.org^
+||chat.signal.org^
+||storage.signal.org^
+||briarproject.org^
+||simplex.chat^
+||simplex.im^
+||tox.chat^
+||berty.tech^
+||session.im^
 ||telegram.org^
 ||t.me^
 ||threema.ch^
 ||wire.com^
+||wickr.com^
 
 ! *** Teen Networking & Anonymous Apps ***
 ||yubo.live^
